@@ -1,72 +1,83 @@
-<h1 align="center">Hi there, I'm Amanpreet Singh 👋</h1>
-<h3 align="center">Software Developer | Data Analyst | Machine Learning Enthusiast</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/amanpreet-singh-4955042a4" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:amanpreet03singh@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<div align="center">
 
-🚀 About Me
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Amanpreet%20Singh&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Software%20Developer%20%7C%20Data%20Analyst%20%7C%20ML%20Enthusiast&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
+<br/>
 
-💻 Software Developer with hands-on experience in Frontend Development, Data Analytics, and Machine Learning
-📊 Skilled in turning raw data into actionable insights using Power BI
-🤖 Passionate about building intelligent systems and data-driven applications
-🌱 Constantly learning and exploring new technologies in AI/ML and web development
-📫 Reach me at amanpreet03singh@gmail.com
+<a href="https://www.linkedin.com/in/amanpreet-singh-4955042a4" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:amanpreet03singh@gmail.com">
+  <img src="https://img.shields.io/badge/Email-2A5298?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
+</div>
 
+<br/>
 
-🛠️ Tech Stack & Tools
+## About
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
+Software Developer with practical experience across **frontend development**, **data analytics**, and **machine learning**. Focused on building clean, functional applications and translating data into clear, actionable insights using tools such as Power BI. Committed to continuous learning and applying modern technologies to solve real-world problems.
 
-📌 Featured Projects
+<br/>
 
-🔹 E-SIM Project
+## Technical Skills
 
-A project exploring eSIM technology — implementation, management, or simulation of embedded SIM functionalities, showcasing practical application development and problem-solving skills.
+<div align="center">
 
-🔹 Vehicle Detection System
+<img src="https://img.shields.io/badge/Python-1e3c72?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-2a5298?style=for-the-badge&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-1e3c72?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-2a5298?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-1e3c72?style=for-the-badge&logo=powerbi&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-2a5298?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit_Learn-1e3c72?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-2a5298?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-1e3c72?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-2a5298?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 
-A machine learning–based vehicle detection system that uses computer vision techniques to identify and classify vehicles from images/video, demonstrating applied ML and data analytics skills.
+</div>
 
+<br/>
 
-💡 Update the links above with your exact repository names/URLs.
+## Featured Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
 
+### eSIM Project
+A project focused on embedded SIM (eSIM) technology, covering implementation and management of digital SIM profiles. Demonstrates practical software development and systems integration skills.
 
+**[View Repository →](https://github.com/amanpreet03-svg/e-sim)**
 
-📊 GitHub Stats
+</td>
+<td width="50%" valign="top">
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=amanpreet03-svg&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=amanpreet03-svg&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanpreet03-svg&layout=compact&theme=tokyonight" />
-</p>
+### Vehicle Detection System
+A machine learning-based system that uses computer vision to detect and classify vehicles from images and video. Demonstrates applied skills in ML model development and data analytics.
 
-🌐 Connect with Me
+**[View Repository →](https://github.com/amanpreet03-svg/vehicle-detection)**
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/amanpreet-singh-4955042a4" target="_blank">LinkedIn</a> •
-  <a href="mailto:amanpreet03singh@gmail.com">Email</a> •
-  <em>Portfolio (coming soon)</em>
-</p>
+</td>
+</tr>
+</table>
+
+> Update the links above with your exact repository URLs.
+
+<br/>
+
+## Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanpreet-singh-4955042a4)
+[![Email](https://img.shields.io/badge/Email-2A5298?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amanpreet03singh@gmail.com)
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=100&section=footer" width="100%"/>
 
 <p align="center"><i>Thanks for visiting my profile! ⭐ Feel free to explore my repositories.</i></p>
